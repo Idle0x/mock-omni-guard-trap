@@ -25,6 +25,6 @@ You can trigger the trap using these helper functions on the deployed contract:
 * `incrementCount()` (call 11 times) -> Triggers **RATE_LIMIT_BREACH** alert.
 
 ## 📍 Deployed Addresses (Hoodi Testnet)
-* **Trap Logic Contract:** `0x55cE5A36f665781fDe7e1b427751CE00Fcef9D92`
-* **Response Contract:** `0x75B74767d77678613879fFbfEaCb2DAf22D426bd`
+* **Creator Address:** `0xcf75bea7a11eb0a764dc85def2f36c3ed826ae59`
+* **Response Contract:** `0x11e27724a7A6557f342b7C89d7312634dffBb42f`
 * **Drosera Config Address:** `0x1D880D83Ce107C6961495Ef767b8E4099A94F72E`
